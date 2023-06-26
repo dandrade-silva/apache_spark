@@ -1,0 +1,7 @@
+# Comentários podem ser incluídos iniciando a linha com #
+# Ignorar arquivos de compilação
+
+# Ignorar arquivos de configuração específicos
+
+# Ignorar pastas
+venv/
