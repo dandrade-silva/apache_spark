@@ -5,3 +5,4 @@
 
 # Ignorar pastas
 venv/
+spark/*
